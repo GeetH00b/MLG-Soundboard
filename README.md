@@ -5,8 +5,10 @@
 Decisiones que hacer (por prioridad):
 
   1. Sera una aplicacion de escritorio? Correrá como aplicacion de background?
-  1.1. Si es una aplicacion de escritorio, como queremos que se vea? Usará botones? Sera una soundboard tradicional?
-  2. Los sonidos que vamos a estar tocando sobre ella, de qué exactamente queremos que sea para este proyecto?
+  
+  1.1 Si es una aplicacion de escritorio, como queremos que se vea? Usará botones? Sera una soundboard tradicional?
+  
+  2. Los sonidos que vamos a estar tocando sobre ella, de qué exactamente queremos que sean para este proyecto?
   
 Cosas por investigar:
   
